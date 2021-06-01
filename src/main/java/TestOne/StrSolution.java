@@ -4,7 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ *  难度：中等
  *  无重复字符的最长子串
+ *  备注：需复习
  */
 public class StrSolution {
     /**
